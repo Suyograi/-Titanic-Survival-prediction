@@ -15,7 +15,7 @@ This project aims to predict passenger survival on the Titanic using machine lea
 ## Project Structure
 The project is organized into the following directories:
 - `data`: Contains the Titanic dataset (train.csv, test.csv).
-- `notebooks`: Jupyter Notebooks for data analysis, feature engineering, and model training.
+- `notebook`: Jupyter Notebook for data analysis, feature engineering, and model training.
 
 ## Installation
 1. Clone the repository:
