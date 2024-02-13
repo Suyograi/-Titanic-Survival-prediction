@@ -31,8 +31,8 @@ The project is organized into the following directories:
 2. Train and evaluate the machine learning model using the provided code.
 
 4. Data
-Data
-The dataset is stored in the data directory. It includes:
+
+It includes:
 
 train.csv: Training data.
 test.csv: Testing data for predictions.
